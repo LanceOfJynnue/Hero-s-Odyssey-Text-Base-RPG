@@ -1,0 +1,7995 @@
+{
+	"Giant Fire Ant": {
+	    "name": "Giant Fire Ant",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Illusion Fungus": {
+	    "name": "Illusion Fungus",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Rot-Rat": {
+	    "name": "Rot-Rat",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Blood Bat": {
+	    "name": "Blood Bat",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Blade Wasp": {
+	    "name": "Blade Wasp",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Giant Beetle": {
+	    "name": "Giant Beetle",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Poison Bee": {
+	    "name": "Poison Bee",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Titan Spider": {
+	    "name": "Titan Spider",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Behe-Moth": {
+	    "name": "Behe-Moth",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Kobold": {
+	    "name": "Kobold",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Cockatrice": {
+	    "name": "Cockatrice",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Treant": {
+	    "name": "Treant",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Skeleton": {
+	    "name": "Skeleton",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Zombie": {
+	    "name": "Zombie",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Ghost": {
+	    "name": "Ghost",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Skeleton Archer": {
+	    "name": "Skeleton Archer",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Skeleton Knight": {
+	    "name": "Skeleton Knight",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Giant Ant Queen": {
+	    "name": "Giant Ant Queen",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Thorned Ivy": {
+	    "name": "Thorned Ivy",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Razor Boar": {
+	    "name": "Razor Boar",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Fire Slime": {
+	    "name": "Fire Slime",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Water Slime": {
+	    "name": "Water Slime",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Earth Slime": {
+	    "name": "Earth Slime",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Greater Titan Spider": {
+	    "name": "Greater Titan Spider",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Toxic Titan Spider": {
+	    "name": "Toxic Titan Spider",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Sand Golem": {
+	    "name": "Sand Golem",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Earth Golem": {
+	    "name": "Earth Golem",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Horned Skull Frog": {
+	    "name": "Horned Skull Frog",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Goblin": {
+	    "name": "Goblin",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Direwolf": {
+	    "name": "Direwolf",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Gale Hawk": {
+	    "name": "Gale Hawk",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Night Stalker": {
+	    "name": "Night Stalker",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Goblin Archer": {
+	    "name": "Goblin Archer",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Goblin Shaman": {
+	    "name": "Goblin Shaman",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Banshee": {
+	    "name": "Banshee",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Carnivorous Plant": {
+	    "name": "Carnivorous Plant",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Vampire": {
+	    "name": "Vampire",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Wooden Golem": {
+	    "name": "Wooden Golem",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Magma Golem": {
+	    "name": "Magma Golem",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Iron Golem": {
+	    "name": "Iron Golem",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Horned Grizzly": {
+	    "name": "Horned Grizzly",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Electric Slime": {
+	    "name": "Electric Slime",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Forest Slime": {
+	    "name": "Forest Slime",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Frozen Slime": {
+	    "name": "Frozen Slime",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Desert Slime": {
+	    "name": "Desert Slime",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Iron Slime": {
+	    "name": "Iron Slime",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Skeleton Horseman": {
+	    "name": "Skeleton Horseman",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Possessed Sword": {
+	    "name": "Possessed Sword",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Possessed Axe": {
+	    "name": "Possessed Axe",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Possessed Hammer": {
+	    "name": "Possessed Hammer",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Possessed Spear": {
+	    "name": "Possessed Spear",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Possessed Shield": {
+	    "name": "Possessed Shield",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Gorgon": {
+	    "name": "Gorgon",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Gold Slime": {
+	    "name": "Gold Slime",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Giant Fire Ant Queen": {
+	    "name": "Giant Fire Ant Queen",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Mad Flower": {
+	    "name": "Mad Flower",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Armored Razor Boar": {
+	    "name": "Armored Razor Boar",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Gigancobra": {
+	    "name": "Gigancobra",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Toxic Scale Boa": {
+	    "name": "Toxic Scale Boa",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Earth Wyrm": {
+	    "name": "Earth Wyrm",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Radiant Slime": {
+	    "name": "Radiant Slime",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Shadow Slime": {
+	    "name": "Shadow Slime",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Iron Skull Frog": {
+	    "name": "Iron Skull Frog",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Golden Golem": {
+	    "name": "Golden Golem",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Diamond Golem": {
+	    "name": "Diamond Golem",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+    
+    "//": "Below still needs names",
+
+	"Orc": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Siren": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Salamander": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Mimic": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Hobgoblin": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Chimera": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Titanium Golem": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Obsidian Golem": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Possessed Armor": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Golden Skull Frog": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Diamond Skull Frog": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Titanium Slime": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Two-Horned Grizzly": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Crystal Slime": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Rainbow Slime": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Starry Slime": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Hellfire Slime": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Abyssal Slime": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Toxic Slime": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Wraith": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Cyclops": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Minotaur": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Lich": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Direwolf Alpha": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Ogre": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Mythril Slime": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Mythril Skull Frog": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Orichalcum Skull Frog": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Crystal Skull Frog": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Orichalcum Slime": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Goblin General": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Orc General": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Titan Spider Queen": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Mythril Golem": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Orichalcum Golem": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Crystal Golem": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Quantum Slime": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Crimzyte Slime": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Tri-Horned Grizzly": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Crimzyte Skull Frog": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Ogre Lord": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Goblin Warlock": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Orc King": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Wyvern": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Greater Wyvern": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Hydra": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Death Serpent": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Kraken": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Crimzyte Golem": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Fire Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Elder Fire Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Fire Dragon King": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Water Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Elder Water Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Water Dragon King": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Earth Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Elder Earth Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Earth Dragon King": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Wind Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Elder Wind Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Wind Dragon King": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Lightning Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Elder Lightning Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Plant Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Elder Plant Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Ice Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Elder Ice Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Smoke Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Elder Smoke Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Metal Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Elder Metal Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Sand Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Elder Sand Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Meteor Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Elder Meteor Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Beast Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Elder Beast Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Storm Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Elder Storm Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Crystal Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Elder Crystal Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Elemental Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	},
+	
+	"Elder Elemental Dragon": {
+	    "name": "",
+	    "tags": [
+	    ],
+	    "info": "",
+	    "priority_rate": 0,
+	    "xp_rate": 0,
+        "base_talents": 0,
+	    "talent_pref": {
+	        "vit": 0,
+	        "str": 0,
+	        "wis": 0,
+	        "agi": 0,
+	        "cha": 0
+	    },
+	    "unique_quirks": [
+	        "Sample."
+	    ],
+	    "skills": {
+	        "a": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        },
+	        "b": {
+	            "priority": 0,
+                "base_req_tp": 0
+	        }
+	    },
+	    "actions": {
+	        "x": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        },
+	        "y": {
+	            "base_weight": 0,
+	            "by_hp": 0,
+	            "by_lvl_diff": 0
+	        }
+	    },
+	    "drops": {
+	        "Sample1": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        },
+	        "Sample2": {
+	            "min": 0,
+	            "max": 0,
+	            "weight": 0
+	        }
+	    }
+	}
+}

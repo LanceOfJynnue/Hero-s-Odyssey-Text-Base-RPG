@@ -1,0 +1,75 @@
+{
+    "name": "Ynah",
+    "race": "Giant",
+    "cur_hp": 117,
+    "cur_mp": 84,
+    "lvl": 1,
+    "xp": 0,
+    "talent_points": 5,
+    "attributes": {
+        "fire": 0,
+        "water": 0.38130383912370175,
+        "earth": 0.4278469254949247,
+        "wind": 0.1908492353813736,
+        "lightning": 0,
+        "smoke": 0,
+        "metal": 0,
+        "plant": 0.039985915503370634,
+        "ice": 0,
+        "sand": 0,
+        "storm": 0,
+        "meteor": 0,
+        "crystal": 0,
+        "beasts": 0,
+        "elementals": 0,
+        "light": 0,
+        "dark": 0,
+        "sun": 0,
+        "rainbow": 0,
+        "music": 0,
+        "stardust": 0,
+        "blackFlame": 0,
+        "toxic": 0,
+        "void": 0,
+        "moon": 0,
+        "space": 0,
+        "timex": 0
+    },
+    "base_talents": {
+        "vit": 4,
+        "str": 3,
+        "wis": 1,
+        "agi": 0,
+        "cha": 2
+    },
+    "base_stats": {
+        "max_hp": 117,
+        "cur_mp": 84,
+        "max_mp": 84,
+        "mp_regen": 4,
+        "phy_att": 9,
+        "mag_att": 7,
+        "phy_def": 11,
+        "mag_def": 7,
+        "spd": 2,
+        "eva": 2,
+        "perc": 4,
+        "acc": 4,
+        "purs": 9,
+        "luck": 2
+    },
+    "skills": [
+        [
+            "water_affinity",
+            1
+        ],
+        [
+            "earth_affinity",
+            1
+        ],
+        [
+            "wind_affinity",
+            1
+        ]
+    ]
+}

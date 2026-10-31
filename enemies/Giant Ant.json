@@ -1,0 +1,53 @@
+{
+    "name": "Giant Ant",
+    "tags": [
+    ],
+    "info": "",
+    "priority_rate": 0,
+    "xp_rate": 0,
+    "base_talents": 0,
+    "talent_pref": {
+        "vit": 0,
+        "str": 0,
+        "wis": 0,
+        "agi": 0,
+        "cha": 0
+    },
+    "unique_quirks": [
+        "Sample."
+    ],
+    "skills": {
+        "a": {
+            "priority": 0,
+            "base_req_tp": 0
+        },
+        "b": {
+            "priority": 0,
+            "base_req_tp": 0
+        }
+    },
+    "actions": {
+        "x": {
+            "base_weight": 0,
+            "by_hp": 0,
+            "by_lvl_diff": 0
+        },
+        "y": {
+            "base_weight": 0,
+            "by_hp": 0,
+            "by_lvl_diff": 0
+        }
+    },
+    "drops": {
+        "Sample1": {
+            "min": 0,
+            "max": 0,
+            "weight": 0
+        },
+        "Sample2": {
+            "min": 0,
+            "max": 0,
+            "weight": 0
+        }
+    }
+}
