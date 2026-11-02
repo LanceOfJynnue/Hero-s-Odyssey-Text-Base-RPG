@@ -1,0 +1,21 @@
+{
+    "name": "Action",
+    "description": "An action that can be performed by an agent.",
+    "type": "object",
+    "properties": {
+        "name": {
+        "type": "string",
+        "description": "The name of the action."
+        },
+        "description": {
+        "type": "string",
+        "description": "A description of the action."
+        },
+        "parameters": {
+        "type": "object",
+        "description": "The parameters required to perform the action.",
+        "additionalProperties": true
+        }
+    },
+    "required": ["name", "description"]
+}

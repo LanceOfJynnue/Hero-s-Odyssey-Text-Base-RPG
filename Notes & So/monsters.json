@@ -1,9 +1,9 @@
 {
 	"Giant Fire Ant": {
 	    "name": "Giant Fire Ant",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -55,9 +55,9 @@
 	
 	"Illusion Fungus": {
 	    "name": "Illusion Fungus",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -109,9 +109,9 @@
 	
 	"Rot-Rat": {
 	    "name": "Rot-Rat",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -163,9 +163,9 @@
 	
 	"Blood Bat": {
 	    "name": "Blood Bat",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -217,9 +217,9 @@
 	
 	"Blade Wasp": {
 	    "name": "Blade Wasp",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -271,9 +271,9 @@
 	
 	"Giant Beetle": {
 	    "name": "Giant Beetle",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -325,9 +325,9 @@
 	
 	"Poison Bee": {
 	    "name": "Poison Bee",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -379,9 +379,9 @@
 	
 	"Titan Spider": {
 	    "name": "Titan Spider",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -433,9 +433,9 @@
 	
 	"Behe-Moth": {
 	    "name": "Behe-Moth",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -487,9 +487,9 @@
 	
 	"Kobold": {
 	    "name": "Kobold",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -541,9 +541,9 @@
 	
 	"Cockatrice": {
 	    "name": "Cockatrice",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -595,9 +595,9 @@
 	
 	"Treant": {
 	    "name": "Treant",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -649,9 +649,9 @@
 	
 	"Skeleton": {
 	    "name": "Skeleton",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -703,9 +703,9 @@
 	
 	"Zombie": {
 	    "name": "Zombie",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -757,9 +757,9 @@
 	
 	"Ghost": {
 	    "name": "Ghost",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -811,9 +811,9 @@
 	
 	"Skeleton Archer": {
 	    "name": "Skeleton Archer",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -865,9 +865,9 @@
 	
 	"Skeleton Knight": {
 	    "name": "Skeleton Knight",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -919,9 +919,9 @@
 	
 	"Giant Ant Queen": {
 	    "name": "Giant Ant Queen",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -973,9 +973,9 @@
 	
 	"Thorned Ivy": {
 	    "name": "Thorned Ivy",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -1027,9 +1027,9 @@
 	
 	"Razor Boar": {
 	    "name": "Razor Boar",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -1081,9 +1081,9 @@
 	
 	"Fire Slime": {
 	    "name": "Fire Slime",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -1135,9 +1135,9 @@
 	
 	"Water Slime": {
 	    "name": "Water Slime",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -1189,9 +1189,9 @@
 	
 	"Earth Slime": {
 	    "name": "Earth Slime",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -1243,9 +1243,9 @@
 	
 	"Greater Titan Spider": {
 	    "name": "Greater Titan Spider",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -1297,9 +1297,9 @@
 	
 	"Toxic Titan Spider": {
 	    "name": "Toxic Titan Spider",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -1351,9 +1351,9 @@
 	
 	"Sand Golem": {
 	    "name": "Sand Golem",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -1405,9 +1405,9 @@
 	
 	"Earth Golem": {
 	    "name": "Earth Golem",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -1459,9 +1459,9 @@
 	
 	"Horned Skull Frog": {
 	    "name": "Horned Skull Frog",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -1513,9 +1513,9 @@
 	
 	"Goblin": {
 	    "name": "Goblin",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -1567,9 +1567,9 @@
 	
 	"Direwolf": {
 	    "name": "Direwolf",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -1621,9 +1621,9 @@
 	
 	"Gale Hawk": {
 	    "name": "Gale Hawk",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -1675,9 +1675,9 @@
 	
 	"Night Stalker": {
 	    "name": "Night Stalker",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -1729,9 +1729,9 @@
 	
 	"Goblin Archer": {
 	    "name": "Goblin Archer",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -1783,9 +1783,9 @@
 	
 	"Goblin Shaman": {
 	    "name": "Goblin Shaman",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -1837,9 +1837,9 @@
 	
 	"Banshee": {
 	    "name": "Banshee",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -1891,9 +1891,9 @@
 	
 	"Carnivorous Plant": {
 	    "name": "Carnivorous Plant",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -1945,9 +1945,9 @@
 	
 	"Vampire": {
 	    "name": "Vampire",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -1999,9 +1999,9 @@
 	
 	"Wooden Golem": {
 	    "name": "Wooden Golem",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -2053,9 +2053,9 @@
 	
 	"Magma Golem": {
 	    "name": "Magma Golem",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -2107,9 +2107,9 @@
 	
 	"Iron Golem": {
 	    "name": "Iron Golem",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -2161,9 +2161,9 @@
 	
 	"Horned Grizzly": {
 	    "name": "Horned Grizzly",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -2215,9 +2215,9 @@
 	
 	"Electric Slime": {
 	    "name": "Electric Slime",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -2269,9 +2269,9 @@
 	
 	"Forest Slime": {
 	    "name": "Forest Slime",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -2323,9 +2323,9 @@
 	
 	"Frozen Slime": {
 	    "name": "Frozen Slime",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -2377,9 +2377,9 @@
 	
 	"Desert Slime": {
 	    "name": "Desert Slime",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -2431,9 +2431,9 @@
 	
 	"Iron Slime": {
 	    "name": "Iron Slime",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -2485,9 +2485,9 @@
 	
 	"Skeleton Horseman": {
 	    "name": "Skeleton Horseman",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -2539,9 +2539,9 @@
 	
 	"Possessed Sword": {
 	    "name": "Possessed Sword",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -2593,9 +2593,9 @@
 	
 	"Possessed Axe": {
 	    "name": "Possessed Axe",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -2647,9 +2647,9 @@
 	
 	"Possessed Hammer": {
 	    "name": "Possessed Hammer",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -2701,9 +2701,9 @@
 	
 	"Possessed Spear": {
 	    "name": "Possessed Spear",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -2755,9 +2755,9 @@
 	
 	"Possessed Shield": {
 	    "name": "Possessed Shield",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -2809,9 +2809,9 @@
 	
 	"Gorgon": {
 	    "name": "Gorgon",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -2863,9 +2863,9 @@
 	
 	"Gold Slime": {
 	    "name": "Gold Slime",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -2917,9 +2917,9 @@
 	
 	"Giant Fire Ant Queen": {
 	    "name": "Giant Fire Ant Queen",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -2971,9 +2971,9 @@
 	
 	"Mad Flower": {
 	    "name": "Mad Flower",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -3025,9 +3025,9 @@
 	
 	"Armored Razor Boar": {
 	    "name": "Armored Razor Boar",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -3079,9 +3079,9 @@
 	
 	"Gigancobra": {
 	    "name": "Gigancobra",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -3133,9 +3133,9 @@
 	
 	"Toxic Scale Boa": {
 	    "name": "Toxic Scale Boa",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -3187,9 +3187,9 @@
 	
 	"Earth Wyrm": {
 	    "name": "Earth Wyrm",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -3241,9 +3241,9 @@
 	
 	"Radiant Slime": {
 	    "name": "Radiant Slime",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -3295,9 +3295,9 @@
 	
 	"Shadow Slime": {
 	    "name": "Shadow Slime",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -3349,9 +3349,9 @@
 	
 	"Iron Skull Frog": {
 	    "name": "Iron Skull Frog",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -3403,9 +3403,9 @@
 	
 	"Golden Golem": {
 	    "name": "Golden Golem",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -3457,9 +3457,9 @@
 	
 	"Diamond Golem": {
 	    "name": "Diamond Golem",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -3513,9 +3513,9 @@
 
 	"Orc": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -3567,9 +3567,9 @@
 	
 	"Siren": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -3621,9 +3621,9 @@
 	
 	"Salamander": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -3675,9 +3675,9 @@
 	
 	"Mimic": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -3729,9 +3729,9 @@
 	
 	"Hobgoblin": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -3783,9 +3783,9 @@
 	
 	"Chimera": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -3837,9 +3837,9 @@
 	
 	"Titanium Golem": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -3891,9 +3891,9 @@
 	
 	"Obsidian Golem": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -3945,9 +3945,9 @@
 	
 	"Possessed Armor": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -3999,9 +3999,9 @@
 	
 	"Golden Skull Frog": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -4053,9 +4053,9 @@
 	
 	"Diamond Skull Frog": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -4107,9 +4107,9 @@
 	
 	"Titanium Slime": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -4161,9 +4161,9 @@
 	
 	"Two-Horned Grizzly": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -4215,9 +4215,9 @@
 	
 	"Crystal Slime": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -4269,9 +4269,9 @@
 	
 	"Rainbow Slime": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -4323,9 +4323,9 @@
 	
 	"Starry Slime": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -4377,9 +4377,9 @@
 	
 	"Hellfire Slime": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -4431,9 +4431,9 @@
 	
 	"Abyssal Slime": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -4485,9 +4485,9 @@
 	
 	"Toxic Slime": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -4539,9 +4539,9 @@
 	
 	"Wraith": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -4593,9 +4593,9 @@
 	
 	"Cyclops": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -4647,9 +4647,9 @@
 	
 	"Minotaur": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -4701,9 +4701,9 @@
 	
 	"Lich": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -4755,9 +4755,9 @@
 	
 	"Direwolf Alpha": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -4809,9 +4809,9 @@
 	
 	"Ogre": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -4863,9 +4863,9 @@
 	
 	"Mythril Slime": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -4917,9 +4917,9 @@
 	
 	"Mythril Skull Frog": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -4971,9 +4971,9 @@
 	
 	"Orichalcum Skull Frog": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -5025,9 +5025,9 @@
 	
 	"Crystal Skull Frog": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -5079,9 +5079,9 @@
 	
 	"Orichalcum Slime": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -5133,9 +5133,9 @@
 	
 	"Goblin General": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -5187,9 +5187,9 @@
 	
 	"Orc General": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -5241,9 +5241,9 @@
 	
 	"Titan Spider Queen": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -5295,9 +5295,9 @@
 	
 	"Mythril Golem": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -5349,9 +5349,9 @@
 	
 	"Orichalcum Golem": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -5403,9 +5403,9 @@
 	
 	"Crystal Golem": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -5457,9 +5457,9 @@
 	
 	"Quantum Slime": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -5511,9 +5511,9 @@
 	
 	"Crimzyte Slime": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -5565,9 +5565,9 @@
 	
 	"Tri-Horned Grizzly": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -5619,9 +5619,9 @@
 	
 	"Crimzyte Skull Frog": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -5673,9 +5673,9 @@
 	
 	"Ogre Lord": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -5727,9 +5727,9 @@
 	
 	"Goblin Warlock": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -5781,9 +5781,9 @@
 	
 	"Orc King": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -5835,9 +5835,9 @@
 	
 	"Wyvern": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -5889,9 +5889,9 @@
 	
 	"Greater Wyvern": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -5943,9 +5943,9 @@
 	
 	"Hydra": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -5997,9 +5997,9 @@
 	
 	"Death Serpent": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -6051,9 +6051,9 @@
 	
 	"Kraken": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -6105,9 +6105,9 @@
 	
 	"Crimzyte Golem": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -6159,9 +6159,9 @@
 	
 	"Fire Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -6213,9 +6213,9 @@
 	
 	"Elder Fire Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -6267,9 +6267,9 @@
 	
 	"Fire Dragon King": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -6321,9 +6321,9 @@
 	
 	"Water Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -6375,9 +6375,9 @@
 	
 	"Elder Water Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -6429,9 +6429,9 @@
 	
 	"Water Dragon King": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -6483,9 +6483,9 @@
 	
 	"Earth Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -6537,9 +6537,9 @@
 	
 	"Elder Earth Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -6591,9 +6591,9 @@
 	
 	"Earth Dragon King": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -6645,9 +6645,9 @@
 	
 	"Wind Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -6699,9 +6699,9 @@
 	
 	"Elder Wind Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -6753,9 +6753,9 @@
 	
 	"Wind Dragon King": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -6807,9 +6807,9 @@
 	
 	"Lightning Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -6861,9 +6861,9 @@
 	
 	"Elder Lightning Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -6915,9 +6915,9 @@
 	
 	"Plant Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -6969,9 +6969,9 @@
 	
 	"Elder Plant Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -7023,9 +7023,9 @@
 	
 	"Ice Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -7077,9 +7077,9 @@
 	
 	"Elder Ice Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -7131,9 +7131,9 @@
 	
 	"Smoke Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -7185,9 +7185,9 @@
 	
 	"Elder Smoke Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -7239,9 +7239,9 @@
 	
 	"Metal Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -7293,9 +7293,9 @@
 	
 	"Elder Metal Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -7347,9 +7347,9 @@
 	
 	"Sand Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -7401,9 +7401,9 @@
 	
 	"Elder Sand Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -7455,9 +7455,9 @@
 	
 	"Meteor Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -7509,9 +7509,9 @@
 	
 	"Elder Meteor Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -7563,9 +7563,9 @@
 	
 	"Beast Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -7617,9 +7617,9 @@
 	
 	"Elder Beast Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -7671,9 +7671,9 @@
 	
 	"Storm Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -7725,9 +7725,9 @@
 	
 	"Elder Storm Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -7779,9 +7779,9 @@
 	
 	"Crystal Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -7833,9 +7833,9 @@
 	
 	"Elder Crystal Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -7887,9 +7887,9 @@
 	
 	"Elemental Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
@@ -7941,9 +7941,9 @@
 	
 	"Elder Elemental Dragon": {
 	    "name": "",
+		"description": "",
 	    "tags": [
 	    ],
-	    "info": "",
 	    "priority_rate": 0,
 	    "xp_rate": 0,
         "base_talents": 0,
