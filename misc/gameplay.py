@@ -12,5 +12,4 @@ input("Press ENTER to continue")
 
 func.clear_terminal()
 
-#subprocess.run(["python", dir.parent_dir+"/game.py"])
 sys.exit()
