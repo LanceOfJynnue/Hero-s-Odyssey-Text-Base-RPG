@@ -59,14 +59,15 @@ while playing == True:
             i += 1
             print("\n",i,". RETURN TO MENU",sep="")
             selectCont = misc.func.checkSelect(input("\nSelect and enter the number of your choice: "))
-            
-            while True:
+            selectingSave = True
+            while selectingSave == True:
                 if selectCont == i:
                     misc.func.clear_terminal()
                     break
                 elif 0 < selectCont < i: 
                     misc.func.clear_terminal()
-                    subprocess.run(["python", misc.dir.parent_dir+"/misc/gameplay.py",save_array[selectCont-1]])
+                    selectingSave = False
+                    subprocess.run(["python", misc.dir.parent_dir+"/misc/gameplay.py",save_array[selectCont-1]+".json"])
                 else: selectCont = input("\nInvalid choice, please try again: ")
         else:
             print("No save files found.")

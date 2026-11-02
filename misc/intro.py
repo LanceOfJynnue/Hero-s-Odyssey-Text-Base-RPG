@@ -401,5 +401,5 @@ character = {
 with open(dir.parent_dir+"/character/"+file_name, "w", encoding="utf-8") as json_file:
     json.dump(character, json_file, indent=4)
 
-subprocess.run(["python", dir.parent_dir+"/misc/gameplay.py"])
+subprocess.run(["python", dir.parent_dir+"/misc/gameplay.py",file_name])
 sys.exit()

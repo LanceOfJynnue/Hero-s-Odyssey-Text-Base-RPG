@@ -1,0 +1,83 @@
+{
+    "name": "Lance",
+    "race": "Dwarf",
+    "cur_hp": 107,
+    "cur_mp": 96,
+    "lvl": 1,
+    "xp": 0,
+    "talent_points": 5,
+    "attributes": {
+        "fire": 0.1561014606744205,
+        "water": 0.11786945816912126,
+        "earth": 0.3648855523746671,
+        "wind": 0.3611435287817912,
+        "lightning": 0.05582640011911116,
+        "smoke": 0,
+        "metal": 0,
+        "plant": 0,
+        "ice": 0,
+        "sand": 0.7155662689921337,
+        "storm": 0,
+        "meteor": 0,
+        "crystal": 0,
+        "beasts": 0,
+        "elementals": 0,
+        "light": 0,
+        "dark": 0,
+        "sun": 0,
+        "rainbow": 0,
+        "music": 0,
+        "stardust": 0,
+        "blackFlame": 0,
+        "toxic": 0,
+        "void": 0,
+        "moon": 0,
+        "space": 0,
+        "timex": 0
+    },
+    "base_talents": {
+        "vit": 2,
+        "str": 3,
+        "wis": 3,
+        "agi": 1,
+        "cha": 1
+    },
+    "base_stats": {
+        "max_hp": 107,
+        "cur_mp": 96,
+        "max_mp": 96,
+        "mp_regen": 5,
+        "phy_att": 8,
+        "mag_att": 10,
+        "phy_def": 9,
+        "mag_def": 10,
+        "spd": 4,
+        "eva": 5,
+        "perc": 5,
+        "acc": 6,
+        "purs": 10,
+        "luck": 2
+    },
+    "skills": [
+        [
+            "fire_affinity",
+            1
+        ],
+        [
+            "water_affinity",
+            1
+        ],
+        [
+            "earth_affinity",
+            1
+        ],
+        [
+            "wind_affinity",
+            1
+        ],
+        [
+            "sand_affinity",
+            1
+        ]
+    ]
+}
