@@ -341,6 +341,7 @@ character = {
     "cur_mp": char_alloc[6],
     "lvl": 1,
     "xp": 0,
+    "gold": 0,
     "talent_points": 5,
     "attributes": {
         "fire": fire,
