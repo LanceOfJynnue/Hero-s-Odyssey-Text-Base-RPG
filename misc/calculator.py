@@ -43,7 +43,10 @@ def calculateEqu(equ1):
             equ1[num1] = a * b
         elif op == "div":
             del equ1[num1:num2]
-            equ1[num1] = a / b
+            try:
+                equ1[num1] = a / b
+            except ZeroDivisionError:
+                equ1[num1] = 0
         elif op == "expo":
             del equ1[num1:num2]
             equ1[num1] = a ** b
@@ -52,7 +55,10 @@ def calculateEqu(equ1):
             equ1[num1] = a % b
         elif op == "truncDiv":
             del equ1[num1:num2]
-            equ1[num1] = a // b
+            try:
+                equ1[num1] = a // b
+            except ZeroDivisionError:
+                equ1[num1] = 0
     
     return equ1[0]
 
