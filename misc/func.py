@@ -74,32 +74,12 @@ def arrayShuffle(array):
         array[i], array[j] = array[j], array[i]
     return array
 
-def questionChoices():
-    print("\nPlease select and type the number corresponding to your choice:" )
-    print("1. Strongly Disagree")
-    print("2. Disagree")
-    print("3. Somewhat Disagree")
-    print("4. Somewhat Agree")
-    print("5. Agree")
-    print("6. Strongly Agree")
-    return input("\nYour choice: ")
-
 def isDigit(string):
     try:
         int(string)
         return True
     except ValueError:
         return False
-    
-def checkSelect(string):
-    checkSel = True
-    while checkSel == True:
-        try:
-            num = int(string)
-            checkSel = False
-            return num
-        except ValueError:
-            string = input("Invalid selection. Please try again: ")
     
 def isFloat(string):
     try:
@@ -126,6 +106,16 @@ def isString(string):
     else:
         return False
 
+def questionChoices():
+    print("\nPlease select and type the number corresponding to your choice:" )
+    print("1. Strongly Disagree")
+    print("2. Disagree")
+    print("3. Somewhat Disagree")
+    print("4. Somewhat Agree")
+    print("5. Agree")
+    print("6. Strongly Agree")
+    return input("\nYour choice: ")
+
 def textBox(text, width=118):
     lines = []
     while len(text) > width:
@@ -141,6 +131,16 @@ def textBox(text, width=118):
     print("\n".join(lines))
     print("+" + "-" * width + "+")
     return ""
+    
+def checkSelect(string):
+    checkSel = True
+    while checkSel == True:
+        try:
+            num = int(string)
+            checkSel = False
+            return num
+        except ValueError:
+            string = input("Invalid selection. Please try again: ")
 
 def printPerc(per_name,perc,checkNull=True):
     if perc > 0 and checkNull==True:

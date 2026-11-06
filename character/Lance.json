@@ -1,23 +1,23 @@
 {
     "name": "Lance",
-    "race": "Dwarf",
-    "cur_hp": 107,
-    "cur_mp": 96,
+    "race": "Giant",
+    "cur_hp": 117,
+    "cur_mp": 84,
     "lvl": 1,
     "xp": 0,
     "gold": 0,
     "talent_points": 5,
     "attributes": {
-        "fire": 0.1561014606744205,
-        "water": 0.11786945816912126,
-        "earth": 0.3648855523746671,
-        "wind": 0.3611435287817912,
-        "lightning": 0.05582640011911116,
+        "fire": 0,
+        "water": 0.6671000255179185,
+        "earth": 0,
+        "wind": 0.33289997448208164,
+        "lightning": 0,
         "smoke": 0,
         "metal": 0,
         "plant": 0,
         "ice": 0,
-        "sand": 0.7155662689921337,
+        "sand": 0,
         "storm": 0,
         "meteor": 0,
         "crystal": 0,
@@ -37,48 +37,31 @@
         "timex": 0
     },
     "base_talents": {
-        "vit": 2,
+        "vit": 4,
         "str": 3,
-        "wis": 3,
-        "agi": 1,
-        "cha": 1
+        "wis": 1,
+        "agi": 0,
+        "cha": 2
     },
     "base_stats": {
-        "max_hp": 107,
-        "cur_mp": 96,
-        "max_mp": 96,
-        "mp_regen": 5,
-        "phy_att": 8,
-        "mag_att": 10,
-        "phy_def": 9,
-        "mag_def": 10,
-        "spd": 4,
-        "eva": 5,
-        "perc": 5,
-        "acc": 6,
-        "purs": 10,
+        "max_hp": 117,
+        "cur_mp": 84,
+        "max_mp": 84,
+        "mp_regen": 4,
+        "phy_att": 9,
+        "mag_att": 7,
+        "phy_def": 11,
+        "mag_def": 7,
+        "spd": 2,
+        "eva": 2,
+        "perc": 4,
+        "acc": 4,
+        "purs": 9,
         "luck": 2
     },
-    "skills": [
-        [
-            "fire_affinity",
-            1
-        ],
-        [
-            "water_affinity",
-            1
-        ],
-        [
-            "earth_affinity",
-            1
-        ],
-        [
-            "wind_affinity",
-            1
-        ],
-        [
-            "sand_affinity",
-            1
-        ]
-    ]
+    "skills": {
+        "water_affinity": 1,
+        "wind_affinity": 1
+    },
+    "tags": []
 }

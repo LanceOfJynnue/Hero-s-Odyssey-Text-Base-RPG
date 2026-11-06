@@ -41,9 +41,9 @@ for h in range(3):
                 if choice >= 1 and choice <= 6:
                     check=True
                 else:
-                    choice = int(input("\nPlease select a valid choice: "))
+                    choice = input("\nPlease select a valid choice: ")
             else:
-                choice = int(input("\nPlease select a valid choice: "))
+                choice = input("\nPlease select a valid choice: ")
         
         if x >= 6 and x <= 11:
             if choice == 1:
@@ -288,42 +288,39 @@ func.printPerc("Moon",moon)
 func.printPerc("Space",space)
 func.printPerc("Time",timex)
 
-skills = False
+skills = {}
     
-def elem_skill(elem, elem_perc, skill):
+def elem_skill(elem, elem_perc):
+    global skills
     if elem_perc >= 0.1:
-        array = [elem+"_affinity",1]
-        if skills == False:
-            skill = [array]
-        else: skill.append(array)
-    return skill
+        skills[elem+"_affinity"] = 1
 
-skills = elem_skill("fire", fire, skills)
-skills = elem_skill("water", water, skills)
-skills = elem_skill("earth", earth, skills)
-skills = elem_skill("wind", wind, skills)
-skills = elem_skill("lightning", lightning, skills)
-skills = elem_skill("smoke", smoke, skills)
-skills = elem_skill("metal", metal, skills)
-skills = elem_skill("plant", plant, skills)
-skills = elem_skill("ice", ice, skills)
-skills = elem_skill("sand", sand, skills)
-skills = elem_skill("storm", storm, skills)
-skills = elem_skill("meteor", meteor, skills)
-skills = elem_skill("crystal", crystal, skills)
-skills = elem_skill("beasts", beasts, skills)
-skills = elem_skill("light", light, skills)
-skills = elem_skill("dark", dark, skills)
-skills = elem_skill("sun", sun, skills)
-skills = elem_skill("rainbow", rainbow, skills)
-skills = elem_skill("music", music, skills)
-skills = elem_skill("stardust", stardust, skills)
-skills = elem_skill("blackFlame", blackFlame, skills)
-skills = elem_skill("toxic", toxic, skills)
-skills = elem_skill("void", void, skills)
-skills = elem_skill("moon", moon, skills)
-skills = elem_skill("space", space, skills)
-skills = elem_skill("timex", timex, skills)
+elem_skill("fire", fire)
+elem_skill("water", water)
+elem_skill("earth", earth)
+elem_skill("wind", wind)
+elem_skill("lightning", lightning)
+elem_skill("smoke", smoke)
+elem_skill("metal", metal)
+elem_skill("plant", plant)
+elem_skill("ice", ice)
+elem_skill("sand", sand)
+elem_skill("storm", storm)
+elem_skill("meteor", meteor)
+elem_skill("crystal", crystal)
+elem_skill("beasts", beasts)
+elem_skill("light", light)
+elem_skill("dark", dark)
+elem_skill("sun", sun)
+elem_skill("rainbow", rainbow)
+elem_skill("music", music)
+elem_skill("stardust", stardust)
+elem_skill("blackFlame", blackFlame)
+elem_skill("toxic", toxic)
+elem_skill("void", void)
+elem_skill("moon", moon)
+elem_skill("space", space)
+elem_skill("timex", timex)
 
 input("\nPress ENTER to continue.")
 func.clear_terminal()
@@ -395,7 +392,8 @@ character = {
         "purs": char_alloc[16],
         "luck": char_alloc[17]
     },
-    "skills": skills
+    "skills": skills,
+    "tags": []
 }
 
 # 2. Open a new file in write mode ("w") and dump the data
