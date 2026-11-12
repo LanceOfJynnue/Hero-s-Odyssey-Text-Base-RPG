@@ -340,6 +340,7 @@ character = {
     "xp": 0,
     "gold": 0,
     "talent_points": 5,
+    "coordinate": [0, 0],
     "attributes": {
         "fire": fire,
         "water": water,
