@@ -1,0 +1,72 @@
+{
+    "name": "Ynah",
+    "class": "Classless",
+    "race": "Herth",
+    "cur_hp": 77,
+    "cur_mp": 84,
+    "lvl": 1,
+    "xp": 0,
+    "gold": 0,
+    "talent_points": 5,
+    "coordinate": [
+        0,
+        0
+    ],
+    "attributes": {
+        "fire": 0.17896219797818463,
+        "water": 0.4309419319018025,
+        "earth": 0,
+        "wind": 0.3900958701200129,
+        "lightning": 0,
+        "smoke": 0,
+        "metal": 0,
+        "plant": 0,
+        "ice": 0.027146731004697052,
+        "sand": 0,
+        "storm": 0,
+        "meteor": 0,
+        "crystal": 0,
+        "beasts": 0,
+        "elementals": 0,
+        "light": 0,
+        "dark": 0,
+        "sun": 0,
+        "rainbow": 0,
+        "music": 0,
+        "stardust": 0,
+        "blackFlame": 0,
+        "toxic": 0,
+        "void": 0,
+        "moon": 0,
+        "space": 0,
+        "timex": 0
+    },
+    "base_talents": {
+        "vit": 0,
+        "str": 1,
+        "wis": 4,
+        "agi": 2,
+        "cha": 3
+    },
+    "base_stats": {
+        "max_hp": 77,
+        "max_mp": 84,
+        "mp_regen": 5,
+        "phy_att": 4,
+        "mag_att": 11,
+        "phy_def": 3,
+        "mag_def": 11,
+        "spd": 5,
+        "eva": 8,
+        "perc": 9,
+        "acc": 7,
+        "purs": 14,
+        "luck": 3
+    },
+    "skills": {
+        "fire_affinity": 1,
+        "water_affinity": 1,
+        "wind_affinity": 1
+    },
+    "tags": []
+}
