@@ -333,6 +333,7 @@ func.clear_terminal()
 
 character = {
     "name": char_name,
+    "class": "Classless",
     "race": race,
     "cur_hp": char_alloc[5],
     "cur_mp": char_alloc[6],
@@ -379,7 +380,6 @@ character = {
     },
     "base_stats": {
         "max_hp": char_alloc[5],
-        "cur_mp": char_alloc[6],
         "max_mp": char_alloc[6],
         "mp_regen": char_alloc[7],
         "phy_att": char_alloc[8],
