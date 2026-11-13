@@ -3,51 +3,53 @@
     "description": "",
     "tags": [
     ],
-    "priority_rate": 0,
-    "xp_rate": 0,
-    "base_talents": 0,
+    "base_xp": 50,
+    "xp_mult": 1.2,
+    "base_talents": 2,
+    "tp_per_level": 1,
+    "att_base_rate": 0,
+    "skill_base_rate": 0,
+    "non_rand_TP": 0,
     "talent_pref": {
-        "vit": 0,
-        "str": 0,
-        "wis": 0,
-        "agi": 0,
-        "cha": 0
+        "vit": 0.3,
+        "str": 0.2,
+        "wis": 0.1,
+        "agi": 0.2,
+        "cha": 0.2
     },
     "unique_quirks": [
         "Sample."
     ],
     "skills": {
         "a": {
-            "priority": 0,
-            "base_req_tp": 0
+            "weight": 0
         },
         "b": {
-            "priority": 0,
-            "base_req_tp": 0
+            "weight": 0
         }
     },
     "actions": {
         "x": {
             "base_weight": 0,
-            "by_hp": 0,
-            "by_lvl_diff": 0
+            "by_hp": 0.0,
+            "by_lvl_diff": 0.0
         },
         "y": {
             "base_weight": 0,
-            "by_hp": 0,
-            "by_lvl_diff": 0
+            "by_hp": 0.0,
+            "by_lvl_diff": 0.0
         }
     },
     "drops": {
         "Sample1": {
             "min": 0,
             "max": 0,
-            "weight": 0
+            "rarity": 0.0
         },
         "Sample2": {
             "min": 0,
             "max": 0,
-            "weight": 0
+            "rarity": 0.0
         }
     }
 }
